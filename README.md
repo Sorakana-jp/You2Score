@@ -4,7 +4,7 @@
 Convert YouTube Videos to music score pdf.
 
 ## attention
-DO NOT distribute secondary.\n
+DO NOT distribute secondary.<br>
 DO NOT modify without permission.
 
 ## about me
