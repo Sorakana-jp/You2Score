@@ -8,5 +8,5 @@ DO NOT distribute secondary.<br>
 DO NOT modify without permission.
 
 ## about me
-Discord: sorakana
+Discord: sorakana<br>
 Twitter: Sorakana_jp
